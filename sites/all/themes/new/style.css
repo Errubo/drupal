@@ -1,0 +1,37 @@
+
+/**
+ * Generic elements
+ */
+body {
+  margin: 0;
+  padding: 0;
+  background: #edf5fa;
+  font: 76%/170% Verdana, sans-serif;
+  color: #494949;
+}
+#header{
+    width:100%;
+}
+#logo_main{
+   width:1080px;
+   background:#ccc;
+   color:#fff;
+   margin:auto;
+}
+#logo{
+    width:64px;
+    height:73px;
+}
+#nav_menu ul li{
+   list-style:none;
+   display:inline;
+}
+.region-main-content{
+   width:1080px;
+   background:#ccc;
+   color:#fff;
+   margin:auto;
+}
+.footer{
+}
+
